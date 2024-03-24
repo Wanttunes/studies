@@ -1,0 +1,17 @@
+div#first{
+    position: relative;
+    border-radius: 15px;
+    margin: auto;
+    width: 50vw;
+    height: 50vh;
+    background-color: white;
+}
+div#second{
+    top: 10vh;
+    position: relative;
+    border-radius: 10px;
+    margin: auto;
+    width: 70vw;
+    height: 20vh;
+    background-color: white;
+}
