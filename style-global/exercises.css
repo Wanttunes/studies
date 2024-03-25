@@ -9,9 +9,11 @@ a.button-back{
     position: relative;
     left: 10px;
     top: 20px;
+    transition-duration: 0.4s;
 }
 a.button-back:hover{
     color: rgba(202, 202, 202, 0.76);
+    margin: 10px;
 }
 a{
     text-decoration: none;

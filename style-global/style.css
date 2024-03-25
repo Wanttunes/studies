@@ -16,10 +16,12 @@ a.button-header{
     top: 6.8vh;
     margin: 0px 5px;
     border-radius: 4px;
+    transition-duration: 0.2s;
 }
 a.button-header:hover{
     background-color: rgba(51, 29, 0, 0.719);
     padding: 5px;
+    border-radius: 10px;
 }
 
 header{
